@@ -1,0 +1,26 @@
+# Core web scraping dependencies
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+
+# Database dependencies
+sqlalchemy>=2.0.0
+# Note: sqlite3 is included with Python standard library
+
+# Progress bars and user interface
+tqdm>=4.65.0
+
+# Date and time parsing
+python-dateutil>=2.8.0
+
+# Environment configuration
+python-dotenv>=1.0.0
+
+# Data processing (optional)
+pandas>=2.0.0
+
+# Text processing (optional)
+nltk>=3.8
+
+# Development and testing (optional)
+pytest>=7.0.0
